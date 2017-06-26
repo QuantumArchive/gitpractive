@@ -1,3 +1,2 @@
 # gitpractive
-practicing git stuff
-helrro fren
+practicing git i speak beaver
